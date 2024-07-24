@@ -9,15 +9,11 @@ body.theme_light {
   --button-color-focus: rgb(50 49 45 / 0.4);
 }
 
-/*.page.theme_light {
+.page.theme_light {
 
   &::before {
     background-image: url(../images/cover-image-light.png);
   }
-}*/
-
-.header.theme_dark {
-  background-image: url(../images/cover-image-light.png);
 }
 
 @media (prefers-color-scheme: light) {

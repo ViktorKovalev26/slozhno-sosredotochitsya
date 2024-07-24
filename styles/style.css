@@ -17,6 +17,7 @@
   &::before {
     content: '';
     grid-area: header;
+    background-image: url(../images/cover-image.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -44,10 +45,6 @@
     "area2"
     "area3";
   padding: var(--size, 20px);
-  background-image: url(../images/cover-image-dark.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .decorated-zone {

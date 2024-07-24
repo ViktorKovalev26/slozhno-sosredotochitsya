@@ -9,15 +9,11 @@ body.theme_dark {
   --button-color-focus: rgb(255 0 112 / 0.4);
 }
 
-/*.page.theme_dark {
+.page.theme_dark {
 
   &::before {
     background-image: url(../images/cover-image-dark.png);
   }
-}*/
-
-.header.theme_dark {
-  background-image: url(../images/cover-image-dark.png);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -33,10 +29,10 @@ body.theme_dark {
     --button-color-focus: rgb(255 0 112 / 0.4);
   }
   
-  /*.page.theme_auto {
+  .page.theme_auto {
   
     &::before {
       background-image: url(../images/cover-image-dark.png);
     }
-  }*/
+  }
 }
