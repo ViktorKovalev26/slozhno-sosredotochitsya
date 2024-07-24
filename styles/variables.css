@@ -1,13 +1,13 @@
 :root {
-  --button-color: #FF0070;
-  --head-color: #DB00FF;
+  --button-color: #353430;
+  --head-color: #FFC2E6;
   --shadow-color: #FF0070;
-  --background-color: #000028;
-  --title-text-color: #000028;
-  --title-color: #FF0070;
-  --text-color: #F1B2CE;
-  --lamp-color: currentColor;
-  --button-color-focus: rgb(255 0 112 / 0.4);
+  --background-color: #FFF1F7;
+  --title-text-color: #353430;
+  --title-color: #FF8DCB;
+  --text-color: #353430;
+  --lamp-color: transparent;
+  --button-color-focus: rgb(50 49 45 / 0.4);
   --font-weight_main: 400;
   --font-weidht_bold: 700;
   --font-size_main: 18px;
