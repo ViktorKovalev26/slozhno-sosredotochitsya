@@ -38,5 +38,15 @@ a {
   color: currentColor;
   font-family: inherit;
   font-size: inherit;
-  line-height: inherit;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: none;
 }
+
+a:focus,
+button:focus {
+  outline: none;
+}
+
