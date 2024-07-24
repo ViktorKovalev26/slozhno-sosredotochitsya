@@ -8,13 +8,13 @@
   --text-color: #353430;
   --lamp-color: transparent;
   --button-color-focus: rgb(50 49 45 / 0.4);
-  --font-weight_main: 400;
-  --font-weidht_bold: 700;
-  --font-size_main: 18px;
-  --line-height_main: 1;
-  --line-height_h:0.83;
-  --line-height_title: 1.3;
-  --shadow_main: 4px;
+  --font-weight-main: 400;
+  --font-weight-bold: 700;
+  --font-size-main: 18px;
+  --line-height-main: 1;
+  --line-height-header:0.83;
+  --line-height-title: 1.3;
+  --shadow-main: 4px;
   --lamp-size: 9px;
   --size: 20px;
   --min-size: calc(var(--size)/2);
@@ -23,4 +23,6 @@
   --gap-min-size: calc(var(--gap-size)/2);
   --page-grid-size: calc(var(--gap-size) *3);
   --main-grid-size: calc(var(--gap-size) *4);
+  --image-theme: url(../images/cover-image-light.png);
+  --min-height: 668px;
 }

@@ -7,38 +7,12 @@ body.theme_light {
   --text-color: #353430;
   --lamp-color: transparent;
   --button-color-focus: rgb(50 49 45 / 0.4);
+  --image-theme: url(../images/cover-image-light.png);
 }
 
 .page.theme_light {
 
   &::before {
-    background-image: url(../images/cover-image-light.png);
+    background-image: var(--image-theme);
   }
 }
-
-@media (prefers-color-scheme: light) {
-
-  body.theme_auto {
-    --button-color: #353430;
-    --head-color: #FFC2E6;
-    --background-color: #FFF1F7;
-    --title-text-color: #353430;
-    --title-color: #FF8DCB;
-    --text-color: #353430;
-    --lamp-color: transparent;
-    --button-color-focus: rgb(50 49 45 / 0.4);
-  }
-  
-  .page.theme_auto {
-  
-    &::before {
-      background-image: url(../images/cover-image-light.png);
-    }
-  }
-}
-
-
-
-
-
-
