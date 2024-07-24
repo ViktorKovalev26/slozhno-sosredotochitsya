@@ -1,7 +1,6 @@
 body.theme_dark {
   --button-color: #FF0070;
   --head-color: #DB00FF;
-  /*--shadow-color: #FF0070;*/
   --background-color: #000028;
   --title-text-color: #000028;
   --title-color: #FF0070;
@@ -22,7 +21,6 @@ body.theme_dark {
   body.theme_auto {
     --button-color: #FF0070;
     --head-color: #DB00FF;
-    /*--shadow-color: #FF0070;*/
     --background-color: #000028;
     --title-text-color: #000028;
     --title-color: #FF0070;

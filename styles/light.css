@@ -1,7 +1,6 @@
 body.theme_light {
   --button-color: #353430;
   --head-color: #FFC2E6;
-  /*--shadow-color: #FF0070;*/
   --background-color: #FFF1F7;
   --title-text-color: #353430;
   --title-color: #FF8DCB;
@@ -22,7 +21,6 @@ body.theme_light {
   body.theme_auto {
     --button-color: #353430;
     --head-color: #FFC2E6;
-    /*--shadow-color: #FF0070;*/
     --background-color: #FFF1F7;
     --title-text-color: #353430;
     --title-color: #FF8DCB;
