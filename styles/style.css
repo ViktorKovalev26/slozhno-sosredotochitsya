@@ -169,7 +169,7 @@
 }
 
 .text__link {
-  text-shadow: calc(var(--font-size_main, 18px) /6) calc(var(--font-size_main, 18px) /9) 0 var(--title-color, #FF0070); 
+  text-shadow: calc(var(--font-size_main, 18px) /6) calc(var(--font-size_main, 18px) /9) var(--title-color, #FF0070); 
 
   &:hover {
     border-block-end: 1px solid currentColor;
@@ -307,7 +307,6 @@
     "area2"
     "area3";
   padding: var(--size, 20px);
-  margin-bottom: calc(var(--page-grid-size) *-1);
 }
 
 .footer__title {
