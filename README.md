@@ -1,1 +1,1 @@
-git@github.com:ViktorKovalev26/slozhno-sosredotochitsya.git
+https://github.com/ViktorKovalev26/slozhno-sosredotochitsya.git
